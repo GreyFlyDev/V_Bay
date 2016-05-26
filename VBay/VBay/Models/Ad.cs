@@ -7,6 +7,8 @@ namespace VBay.Models
 {
     public class Ad
     {
+        //Typically and Entity Correspond to a DB Table Row
+
         //Used to set Primary rather than Generated
         //[DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int AdId { get; set; }
