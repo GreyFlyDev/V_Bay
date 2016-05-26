@@ -7,6 +7,7 @@ namespace VBay.Models
 {
     public class Post
     {
+        //Typically and Entity Correspond to a DB Table Row
         public int PostId { get; set; }
         public int UserId { get; set; }
         public int AdId { get; set; }

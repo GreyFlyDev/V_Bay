@@ -7,6 +7,7 @@ namespace VBay.Models
 {
     public class User
     {
+        //Typically and Entity Correspond to a DB Table Row
         public int UserId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

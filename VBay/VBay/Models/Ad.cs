@@ -7,7 +7,8 @@ namespace VBay.Models
 {
     public class Ad
     {
-        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        //Used to set Primary rather than Generated
+        //[DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int AdId { get; set; }
         public string Headline { get; set; }
         public string Description { get; set; }
