@@ -53,7 +53,7 @@ namespace VBay.Migrations
                 },
                 new Post
                 {
-                    UserId = users.Single(u => u.Email == "jreynolds@volusia.org").UserId,
+                    UserId = users.Single(u => u.Email == "jshmit@volusia.org").UserId,
                     AdId = ads.Single(a => a.Headline == "Shoes").AdId
                 }
             };
