@@ -10,6 +10,7 @@ namespace VBay.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Message = "Welcome To V-Bay!";
             return View();
         }
 
