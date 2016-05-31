@@ -50,7 +50,16 @@
             @Html.DisplayFor(model => model.Phone)
         </dd>
 
+        <dt>
+            @Html.DisplayNameFor(model => model.Posts)
+        </dt>
+        @foreach(var item in Model.Posts)
+        {
+            <dd>@Html.DisplayFor(modelItem => item.Ad.Headline)</dd>
+        }
+
     </dl>
+
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.UserId }) |

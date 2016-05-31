@@ -77,8 +77,8 @@ C:\Users\gflynn\Documents\V_Bay\VBay\VBay\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\gflynn\Documents\V_Bay\VBay\VBay\obj\Debug\VBay.csprojResolveAssemblyReference.cache
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\obj\Debug\VBay.dll
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\obj\Debug\VBay.pdb
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\obj\Debug\VBay.Migrations.InitialCreate.resources
 C:\Users\gflynn\Documents\V_Bay\VBay\VBay\obj\Debug\VBay.csproj.GenerateResource.Cache
+C:\Users\gflynn\Documents\V_Bay\VBay\VBay\obj\Debug\VBay.csprojResolveAssemblyReference.cache
