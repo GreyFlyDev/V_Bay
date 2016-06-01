@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace VBay2.Models
+namespace Vbay2.Models
 {
     public class IndexViewModel
     {

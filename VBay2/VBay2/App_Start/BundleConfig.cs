@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace VBay2
+namespace Vbay2
 {
     public class BundleConfig
     {

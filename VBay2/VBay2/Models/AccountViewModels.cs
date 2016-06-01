@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace VBay2.Models
+namespace Vbay2.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

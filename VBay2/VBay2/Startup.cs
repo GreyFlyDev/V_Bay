@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(VBay2.Startup))]
-namespace VBay2
+[assembly: OwinStartupAttribute(typeof(Vbay2.Startup))]
+namespace Vbay2
 {
     public partial class Startup
     {

@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace VBay2
+namespace Vbay2
 {
     public class MvcApplication : System.Web.HttpApplication
     {

@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using VBay2.Models;
+using Vbay2.Models;
 
-namespace VBay2.Controllers
+namespace Vbay2.Controllers
 {
     [Authorize]
     public class AccountController : Controller

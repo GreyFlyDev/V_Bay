@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using VBay2.Models;
+using Vbay2.Models;
 
-namespace VBay2
+namespace Vbay2
 {
     public class EmailService : IIdentityMessageService
     {

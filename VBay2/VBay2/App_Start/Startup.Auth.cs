@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using VBay2.Models;
+using Vbay2.Models;
 
-namespace VBay2
+namespace Vbay2
 {
     public partial class Startup
     {

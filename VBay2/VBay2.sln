@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VBay2", "VBay2\VBay2.csproj", "{661553A9-5B5C-474D-ADA8-7407BCD24492}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vbay2", "Vbay2\Vbay2.csproj", "{A84080A9-6050-49F3-B595-BF851F79A6AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{661553A9-5B5C-474D-ADA8-7407BCD24492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{661553A9-5B5C-474D-ADA8-7407BCD24492}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{661553A9-5B5C-474D-ADA8-7407BCD24492}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{661553A9-5B5C-474D-ADA8-7407BCD24492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84080A9-6050-49F3-B595-BF851F79A6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84080A9-6050-49F3-B595-BF851F79A6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84080A9-6050-49F3-B595-BF851F79A6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84080A9-6050-49F3-B595-BF851F79A6AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

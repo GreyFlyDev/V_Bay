@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("VBay2")]
+[assembly: AssemblyTitle("Vbay2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("County of Volusia")]
-[assembly: AssemblyProduct("VBay2")]
+[assembly: AssemblyProduct("Vbay2")]
 [assembly: AssemblyCopyright("Copyright © County of Volusia 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b20c7e34-9d1d-49b6-a4b0-b9426de39885")]
+[assembly: Guid("ddaed77a-da9e-4026-a05b-da8367f32d00")]
 
 // Version information for an assembly consists of the following four values:
 //
